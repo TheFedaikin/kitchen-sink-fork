@@ -1,4 +1,4 @@
-# This is a fork of `turborepo` kitchen sink starter: [Original](https://github.com/vercel/turborepo/tree/main/examples/kitchen-sink). This is hand-tailored to simplify live-coding demo with a Turborepo and publishing showcase
+# This is a fork of `turborepo` kitchen sink starter: [Original](https://github.com/vercel/turborepo/tree/main/examples/kitchen-sink). This is hand-tailored to simplify live-coding demo with local publishing
 
 This is an official Yarn v1 starter Turborepo with multiple meta-frameworks all working in harmony and sharing packages.
 
